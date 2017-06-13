@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbcabModelStoreContainer" CdmEntityContainer="dbcabEntities">
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="dbcabModel.usuarios">
+        <MappingFragment StoreEntitySet="usuarios">
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Contrasenia" ColumnName="Contrasenia" />
+          <ScalarProperty Name="UltimoAcceso" ColumnName="UltimoAcceso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="actividaddeempresa">
+      <EntityTypeMapping TypeName="dbcabModel.actividaddeempresa">
+        <MappingFragment StoreEntitySet="actividaddeempresa">
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdActividadDeEmpresa" ColumnName="IdActividadDeEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

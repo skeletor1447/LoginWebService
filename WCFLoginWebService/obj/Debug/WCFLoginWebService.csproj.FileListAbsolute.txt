@@ -1,0 +1,10 @@
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\WCFLoginWebService.dll.config
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\WCFLoginWebService.dll
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\WCFLoginWebService.pdb
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\DatosLibrary.dll
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\EntityFramework.dll
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\DatosLibrary.pdb
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\bin\EntityFramework.xml
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\obj\Debug\WCFLoginWebService.csprojResolveAssemblyReference.cache
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\obj\Debug\WCFLoginWebService.dll
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\WCFLoginWebService\obj\Debug\WCFLoginWebService.pdb

@@ -1,0 +1,4 @@
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\DatosLibrary\bin\Debug\DatosLibrary.dll
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\DatosLibrary\bin\Debug\DatosLibrary.pdb
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\DatosLibrary\obj\Debug\DatosLibrary.dll
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\LoginDevExpress\DatosLibrary\obj\Debug\DatosLibrary.pdb
